@@ -1,5 +1,5 @@
 # GenAI acknowledgement: ChatGPT was used for planning, debugging environment
-# compatibility, and editing/documentation support. The student reviewed the
+# compatibility, and editing/documentation support. I reviewed the
 # methodology and executed the final experiment locally.
 
 """SIT307 research reproducibility study. Review/adapt before academic submission."""
