@@ -1,0 +1,10 @@
+Final student-side successful run environment (28 Sep 2026)
+Python 3.12 64-bit
+numpy 2.5.3
+pandas 2.3.3
+scipy 1.18.1
+scikit-learn 1.9.1
+xgboost 3.4.1
+matplotlib 3.11.2
+
+The supplied requirements.txt pins these package versions for reproducibility.

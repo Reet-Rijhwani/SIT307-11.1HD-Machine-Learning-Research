@@ -1,0 +1,13 @@
+{
+  "records": 1025,
+  "unique_full_rows": 302,
+  "duplicate_full_rows": 723,
+  "distinct_feature_vectors": 302,
+  "conflicting_feature_labels": 0,
+  "target_counts": {
+    "1": 526,
+    "0": 499
+  },
+  "random_split_test_rows_with_train_duplicate": 202,
+  "random_split_shared_feature_groups": 155
+}
